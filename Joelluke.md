@@ -20,6 +20,7 @@ The City of Refuge!
 2. Eat
 3. Relax
 4. Fish(Test)
+5. Cook(Test)
 
 
 
